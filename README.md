@@ -1,6 +1,9 @@
 # DC-Motor-Matematical-modeling-in-Matlab-and-applying-P-PI-PID-controller-and-sisotool-grapg-librry
 Our DC MOTOR SYSTEM:
 ![Medal](https://github.com/btknzn/DC-Motor-Matematical-modeling-in-Matlab-and-applying-P-PI-PID-controller-and-sisotool-grapg-librry/blob/master/DCMotor.PNG)
+
+
+
 Motor torque (Km is Armure Constant)
 T(t) = km*i(t)
 EMK Force (kb is Emf constant)
