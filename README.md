@@ -21,3 +21,4 @@ then our system will be
 PID result of our system:
 
 ![Medal](https://github.com/btknzn/DC-Motor-Matematical-modeling-in-Matlab-and-applying-P-PI-PID-controller-and-sisotool-grapg-librry/blob/master/Capture.PNG)
+You can see our matlab code in DcMotorModeling.m
